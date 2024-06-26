@@ -1,0 +1,32 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<data>
+    <item>
+        <placa>ABC-1234</placa>
+        <modelo>Honda Fit</modelo>
+        <cor>Vermelho</cor>
+        <cambio>Automático</cambio>
+        <combustivel>Flex</combustivel>
+    </item>
+    <item>
+        <placa>ABC-1122</placa>
+        <modelo>Honda Civic</modelo>
+        <cor>Prata</cor>
+        <cambio>Automático</cambio>
+        <combustivel>Flex</combustivel>
+    </item>
+    <item>
+        <placa>DEF-2233</placa>
+        <modelo>Fiat Mobi</modelo>
+        <cor>Preto</cor>
+        <cambio>Manual</cambio>
+        <combustivel>Gasolina</combustivel>
+    </item>
+    <item>
+        <placa>DEF-4545</placa>
+        <modelo>Chevrolet Onix</modelo>
+        <cor>Branco</cor>
+        <cambio>Automático</cambio>
+        <combustivel>Flex</combustivel>
+    </item>
+</data>
