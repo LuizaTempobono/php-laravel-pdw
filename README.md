@@ -1,3 +1,41 @@
+##  Informações sobre o trabalho
+
+Trabalho desenvolvido no contexto da disciplina: Programação Dinâmica para Web
+<p>
+Luiza de Campos Tempobono - SP3098338
+<p>
+Objeto escolhido: Carro
+<p>
+Atributos:
+
+- Placa
+- Modelo
+- Cor
+- Câmbio
+- Combustível
+
+## XML - Carro 
+
+Exemplo de XML que é gerado pelo projeto:
+
+```
+<data>
+    <item>
+        <placa>ABC-1234</placa>
+        <modelo>Honda Fit</modelo>
+        <cor>Vermelho</cor>
+        <cambio>Automático</cambio>
+        <combustivel>Flex</combustivel>
+    </item>
+    <item>
+        <placa>ABC-1122</placa>
+        <modelo>Honda Civic</modelo>
+        <cor>Prata</cor>
+        <cambio>Automático</cambio>
+        <combustivel>Flex</combustivel>
+    </item>
+```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
